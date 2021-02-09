@@ -1,15 +1,4 @@
-/*
-COLORS:
-
-Light green: #7ed56f
-Medium green: #55c57a
-Dark green: #28b485
-
-*/
-
-/*  Global */
-
-html {
+/* html {
   font-size: 62.5%;
 }
 
@@ -191,4 +180,4 @@ body {
 .btn--animated {
   animation: moveInBottom 0.5s ease-out 0.75s;
   animation-fill-mode: backwards;
-}
+} */
